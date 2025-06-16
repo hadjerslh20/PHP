@@ -12,5 +12,5 @@
     echo '<br>';
     echo 'Division:',$a/$b;
     echo '<br>';
-    echo 'Modulud:',$a%$b;
+    echo 'Modulus:',$a%$b;
 ?>
