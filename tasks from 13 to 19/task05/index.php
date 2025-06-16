@@ -1,0 +1,15 @@
+<?php
+/*
+  if
+  else
+  while
+  do
+  for
+  switch
+  case
+  echo
+  break
+  continue
+  print
+*/
+?>
