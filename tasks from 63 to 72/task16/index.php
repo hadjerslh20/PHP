@@ -12,5 +12,7 @@
             }
         }
     endforeach;
+    echo '<pre>';
     print_r($oddNum);
+    echo '</pre>';
 ?>
