@@ -14,12 +14,16 @@
     <?php 
     if($_SERVER['REQUEST_METHOD']==="POST") {
         $yearB= $_POST['yearB'];
-        $age = 2025 - $yearB;
+        $current_year = date("Y");
+        $age = $current_year - $yearB;
         echo "<br>";
         echo "Your age is : $age years old";
     }
     ?>
 </body>
 </html>
+
+
+
 
 
