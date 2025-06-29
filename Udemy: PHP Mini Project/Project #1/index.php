@@ -1,3 +1,8 @@
+/*
+    1. PHP Age Calculator
+Project Description: The PHP Age Calculator allows a user to input their birth year, and the program will calculate their current age based on the current year. 
+It provides a simple way to calculate age dynamically using PHP's built-in date and time functions.
+*/
 <!DOCTYPE html>
 <html lang="en">
 <head>
