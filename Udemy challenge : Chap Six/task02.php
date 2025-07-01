@@ -19,8 +19,19 @@
             $numTwo=$_POST['numTwo'];
             $result = $numOne + $numTwo;
             echo $numOne." + ".$numTwo." = ".$result;
+            echo '<br>';
+            echo $numOne." - ".$numTwo." = ".$numOne - $numTwo;
+            echo '<br>';
+            echo $numOne." * ".$numTwo." = ".$numOne * $numTwo;
+            echo '<br>';
+            echo $numOne." / ".$numTwo." = ".$numOne / $numTwo;
+            echo '<br>';
+            echo $numOne." % ".$numTwo." = ".$numOne % $numTwo;
+            echo '<br>';
+            echo $numOne." ** ".$numTwo." = ".$numOne ** $numTwo;
         }
     ?>
 </body>
 </html>
+
 
